@@ -8,6 +8,9 @@ body {
 	font-size:14px;
 	margin:30px 0
 }
+body.gracias {
+	background-image:none
+}
 .titulo {
 	border-bottom:1px solid #000;
 	font-size:20px;
