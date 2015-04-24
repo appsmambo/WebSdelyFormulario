@@ -1,0 +1,16 @@
+body {
+	background-color:#ebe8e8;
+	background-image:url('../img/fondo.png');
+	background-position:50% 50%;
+	background-repeat:no-repeat;
+	font-family:'Roboto',sans-serif;
+	color:#221e1f;
+	font-size:14px;
+	margin:30px 0
+}
+.titulo {
+	border-bottom:1px solid #000;
+	font-size:20px;
+	margin:34px 0 18px;
+	padding-bottom:7px
+}
